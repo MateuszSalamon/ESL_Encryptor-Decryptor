@@ -2,14 +2,14 @@
 ## Code history and old repository 
 * Old repository at - [Lab-ESL](https://github.com/MateuszSalamon/Lab-ESL)
 
-## To Do #1
+## To Modify
 Download MSDC.7z
 
 Update MSDC.7z with:
 * ESL_cezary.py
 * ESL_cezar_tb.py
 
-## To Do #2
+## To Implement
 * Run ESL_cezar_tb.py 
 * Create new project with Zybo IP board and AXI Stream IP in Vivado SDK
 * Run block Automation
